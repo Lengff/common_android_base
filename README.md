@@ -8,6 +8,6 @@
 - 暂无(由于这个是刚启动的项目,所以暂时没有使用任何插件)
 ## 安装教程
 1. git clone https://github.com/Lengff/common_android_base.git
-2. 使用android studio 打开该项目
+2. 使用android studio[下载地址](http://www.android-studio.org/) 打开该项目
 ## 项目详细介绍
 - 暂无(新建项目,暂无其他介绍)
